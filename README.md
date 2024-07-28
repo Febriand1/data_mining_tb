@@ -1,6 +1,7 @@
 # Analisis Klaster Pelanggan Pada Toko Online
+Analisis klaster pelanggan pada toko online menggunakan Algoritma K-Means dan evaluasi Silhouette Score
 
-## Anggota Kelompok
+## Anggota Kelompok 1
 
 |No | Nama                                   | NPM     |
 |---|----------------------------------------|---------|
