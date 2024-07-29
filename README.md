@@ -11,7 +11,7 @@
 
 ## Pendahuluan
 
-Tugas ini merupakan proses dari pembuatan buku **Tutorial Analisis Klaster Pelanggan Toko Online**". Pada buku ini di berikan panduan lengkap bagaimana melakukan analisis klaster pelanggan pada toko online menggunakan algoritma model K-Means dan evaluasi model Silhouette Score.
+Tugas ini merupakan proses dari pembuatan buku **"Tutorial Analisis Klaster Pelanggan Toko Online"**. Pada buku ini di berikan panduan lengkap bagaimana melakukan analisis klaster pelanggan pada toko online menggunakan algoritma model K-Means dan evaluasi model Silhouette Score.
 
 ## Tahapan Analisis Klaster
 
